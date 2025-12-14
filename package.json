@@ -1,17 +1,13 @@
 {
-  "name": "aws-elastic-beanstalk-express-js-sample",
+  "name": "k21-eb-nodejs-app",
   "version": "1.0.0",
-  "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
+  "description": "Node.js app for Elastic Beanstalk deployment",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample.git"
-  },
-  "license": "MIT-0",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.19.2"
   }
 }
+
