@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>K21 Academy</title>
+        <title>Sanjay Sharma</title>
         <style>
             body {
                 margin: 0;
@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
         </style>
     </head>
     <body>
-        <h1>K21 Academy 2025</h1>
+        <h1>Avox IT Services 2026</h1>
     </body>
     </html>
   `);
