@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
         </style>
     </head>
     <body>
-        <h1>K21 Academy CI/CD PipeLine 2026 </h1>
+        <h1>K21 Academy: Code Modified testing </h1>
     </body>
     </html>
   `);
