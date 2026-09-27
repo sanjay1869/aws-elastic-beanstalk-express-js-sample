@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
         </style>
     </head>
     <body>
-        <h1>K21 CI/CD AWS Pipeline Service Demo 2026</h1>
+        <h1>K21 Academy CI/CD AWS Pipeline Demo 27Sept</h1>
     </body>
     </html>
   `);
